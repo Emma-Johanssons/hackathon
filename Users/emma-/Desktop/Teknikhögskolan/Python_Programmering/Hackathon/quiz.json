@@ -1,0 +1,325 @@
+{
+  "quiz": {
+    "terminal": [
+      {
+        "question": "What does 'ls' do in the terminal?",
+        "options": [
+          "List folders and files in the current directory",
+          "Change directory",
+          "Create a new file",
+          "Print the current working directory"
+        ],
+        "correct_answer": "List folders and files in the current directory"
+      },
+      {
+        "question": "What does 'ls -la' do in the terminal?",
+        "options": [
+          "List all files, including hidden files",
+          "Change directory to another folder",
+          "Remove a file",
+          "Create a folder"
+        ],
+        "correct_answer": "List all files, including hidden files"
+      },
+      {
+        "question": "What does 'cd' do in the terminal?",
+        "options": [
+          "Change directory",
+          "Print the current working directory",
+          "List files and folders",
+          "Exit the editor"
+        ],
+        "correct_answer": "Change directory"
+      },
+      {
+        "question": "What does 'touch' do in the terminal?",
+        "options": [
+          "Create a new file",
+          "Delete a file",
+          "List all files",
+          "Open the text editor"
+        ],
+        "correct_answer": "Create a new file"
+      },
+      {
+        "question": "What does 'python3 filename' do on MAC?",
+        "options": [
+          "Run a Python file",
+          "Edit a file",
+          "Rename a file",
+          "Print the current directory"
+        ],
+        "correct_answer": "Run a Python file"
+      },
+      {
+        "question": "What does 'pwd' do in the terminal?",
+        "options": [
+          "Print the current working directory",
+          "Create a new directory",
+          "Delete a directory",
+          "Change directory"
+        ],
+        "correct_answer": "Print the current working directory"
+      },
+      {
+        "question": "What does 'mkdir' do in the terminal?",
+        "options": [
+          "Create a new folder",
+          "Remove a folder",
+          "Create a new file",
+          "Open the text editor"
+        ],
+        "correct_answer": "Create a new folder"
+      },
+      {
+        "question": "What does 'rmdir' do in the terminal?",
+        "options": [
+          "Remove a folder",
+          "Create a file",
+          "Move a file",
+          "List files"
+        ],
+        "correct_answer": "Remove a folder"
+      },
+      {
+        "question": "What does 'nano filename' do in the terminal?",
+        "options": [
+          "Open the text editor",
+          "List all files",
+          "Create a folder",
+          "Run a Python file"
+        ],
+        "correct_answer": "Open the text editor"
+      },
+      {
+        "question": "What does 'mv' do in the terminal?",
+        "options": [
+          "Rename or move a file",
+          "Copy a file",
+          "Create a new file",
+          "Print the current directory"
+        ],
+        "correct_answer": "Rename or move a file"
+      },
+      {
+        "question": "What does 'ctrl + x + y' do in the terminal?",
+        "options": [
+          "Exit the nano editor",
+          "Create a new folder",
+          "Print the current directory",
+          "List hidden files"
+        ],
+        "correct_answer": "Exit the nano editor"
+      }
+    ],
+    "object_oriented_programming": [
+      {
+        "question": "What are 'object attributes'?",
+        "options": [
+          "Attributes for an object, accessed via the instance",
+          "A variable shared across all instances",
+          "A method defined within a class",
+          "The blueprint for objects"
+        ],
+        "correct_answer": "Attributes for an object, accessed via the instance"
+      },
+      {
+        "question": "What is a 'class'?",
+        "options": [
+          "A blueprint for objects",
+          "An individual instance",
+          "A type of loop",
+          "A data type"
+        ],
+        "correct_answer": "A blueprint for objects"
+      },
+      {
+        "question": "What is an 'instance' or 'object'?",
+        "options": [
+          "What we create from a class",
+          "A class variable",
+          "A protected method",
+          "A type of loop"
+        ],
+        "correct_answer": "What we create from a class"
+      },
+      {
+        "question": "What does 'instantiate' mean?",
+        "options": [
+          "To create an object from a class",
+          "To define a new method",
+          "To call a function",
+          "To exit the program"
+        ],
+        "correct_answer": "To create an object from a class"
+      },
+      {
+        "question": "What are 'class variables'?",
+        "options": [
+          "Variables shared across all instances",
+          "Variables specific to each instance",
+          "Methods in a class",
+          "Parameters in a function"
+        ],
+        "correct_answer": "Variables shared across all instances"
+      },
+      {
+        "question": "What is '__init__'?",
+        "options": [
+          "The constructor method, runs when an instance is created",
+          "A class attribute",
+          "A protected variable",
+          "A type of loop"
+        ],
+        "correct_answer": "The constructor method, runs when an instance is created"
+      },
+      {
+        "question": "What does 'self' represent in a class method?",
+        "options": [
+          "A reference to the instance of the class",
+          "A global variable",
+          "A local parameter",
+          "A superclass"
+        ],
+        "correct_answer": "A reference to the instance of the class"
+      },
+      {
+        "question": "What is 'encapsulation'?",
+        "options": [
+          "Separating an object's data and methods from external access",
+          "A type of error handling",
+          "A method for listing attributes",
+          "A method for loop control"
+        ],
+        "correct_answer": "Separating an object's data and methods from external access"
+      },
+      {
+        "question": "What are 'protected variables'?",
+        "options": [
+          "Variables prefixed with '_', used internally only",
+          "Variables accessible by all classes",
+          "Functions accessible in all scopes",
+          "Global variables in a script"
+        ],
+        "correct_answer": "Variables prefixed with '_', used internally only"
+      },
+      {
+        "question": "What does 'inheritance' mean in object-oriented programming?",
+        "options": [
+          "A class can inherit attributes and methods from another",
+          "A method to debug classes",
+          "A type of loop",
+          "A form of error handling"
+        ],
+        "correct_answer": "A class can inherit attributes and methods from another"
+      },
+      {
+        "question": "What is 'abstraction'?",
+        "options": [
+          "Hiding complex logic and providing simple access via methods",
+          "Combining data and behavior",
+          "Creating a loop for classes",
+          "Assigning a new variable"
+        ],
+        "correct_answer": "Hiding complex logic and providing simple access via methods"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Why do we need flow control in programming?",
+        "options": [
+          "To make decisions based on conditions",
+          "To write code faster",
+          "To avoid needing to comment code",
+          "To see error messages"
+        ],
+        "correct_answer": "To make decisions based on conditions"
+      },
+      {
+        "question": "What is the difference between a for loop and a while loop?",
+        "options": [
+          "A for loop is used when the number of iterations is known; a while loop when it is unknown",
+          "While loops are faster than for loops",
+          "For loops are used for functions, while loops for classes",
+          "While loops are only used for large data"
+        ],
+        "correct_answer": "A for loop is used when the number of iterations is known; a while loop when it is unknown"
+      },
+      {
+        "question": "What do we call a block of code that performs a specific task?",
+        "options": ["Function", "Attribute", "Variable", "Class"],
+        "correct_answer": "Function"
+      },
+      {
+        "question": "What are the variables called that we define in a function, and what are the values called that we pass to it?",
+        "options": [
+          "Parameter and argument",
+          "Attribute and method",
+          "Object and instance",
+          "Class and method"
+        ],
+        "correct_answer": "Parameter and argument"
+      },
+      {
+        "question": "What types of parameters exist in functions?",
+        "options": [
+          "Default and positional",
+          "Global and local",
+          "Method and function",
+          "Instance and class"
+        ],
+        "correct_answer": "Default and positional"
+      },
+      {
+        "question": "How do you represent a dictionary and a list?",
+        "options": [
+          "Dictionary = {}, List = []",
+          "Dictionary = [], List = {}",
+          "Dictionary = {}, List = ()",
+          "Dictionary = (), List = {}"
+        ],
+        "correct_answer": "Dictionary = {}, List = []"
+      },
+      {
+        "question": "What is the main difference between a list and a dictionary?",
+        "options": [
+          "A dictionary has keys with unique values, while a list only has values",
+          "A list has keys with unique values, while a dictionary has values with keys",
+          "A dictionary is always faster than a list",
+          "A list uses less memory than a dictionary"
+        ],
+        "correct_answer": "A dictionary has keys with unique values, while a list only has values"
+      },
+      {
+        "question": "What are the two main approaches to error handling?",
+        "options": [
+          "LBYL and EAFP",
+          "POP and OOP",
+          "CMD and IDE",
+          "INT and STR"
+        ],
+        "correct_answer": "LBYL and EAFP"
+      },
+      {
+        "question": "Which statements are part of EAFP in error handling?",
+        "options": [
+          "try, except, else, finally",
+          "if, else, elif, endif",
+          "try, catch, throw, finally",
+          "test, error, resolve, continue"
+        ],
+        "correct_answer": "try, except, else, finally"
+      },
+      {
+        "question": "What is PIP?",
+        "options": [
+          "A package manager for Python",
+          "An API for Python",
+          "A testing tool for Python",
+          "A debugging tool for Python"
+        ],
+        "correct_answer": "A package manager for Python"
+      }
+    ]
+  }
+}
