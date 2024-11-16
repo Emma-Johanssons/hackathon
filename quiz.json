@@ -1,0 +1,604 @@
+{
+  "quiz": {
+    "terminal": [
+      {
+        "question": "What does 'ls' do in the terminal?",
+        "options": [
+          "List folders and files in the current directory",
+          "Change directory",
+          "Create a new file",
+          "Print the current working directory"
+        ],
+        "correct_answer": "List folders and files in the current directory"
+      },
+      {
+        "question": "Which command is used to install all the packages listed in a requirements.txt file?",
+        "options": [
+          "pip install requirements.txt",
+          "pip install -r requirements.txt",
+          "pip import requirements.txt",
+          "pip freeze > requirements.txt"
+        ],
+        "correct_answer": "pip install -r requirements.txt"
+      },
+      {
+        "question": "When should you use the command 'pip freeze > requirements.txt' in a Python project?",
+        "options": [
+          "To uninstall all packages listed in requirements.txt",
+          "To create a new Python virtual environment",
+          "To list all currently installed packages and save them in a requirements.txt file",
+          "To update all packages in requirements.txt to the latest versions"
+        ],
+        "correct_answer": "To list all currently installed packages and save them in a requirements.txt file"
+      },
+      {
+        "question": "What does 'ls' do in the terminal?",
+        "options": [
+          "List folders and files in the current directory",
+          "Change directory",
+          "Create a new file",
+          "Print the current working directory"
+        ],
+        "correct_answer": "List folders and files in the current directory"
+      },
+      {
+        "question": "What does 'ls -la' do in the terminal?",
+        "options": [
+          "List all files, including hidden files",
+          "Change directory to another folder",
+          "Remove a file",
+          "Create a folder"
+        ],
+        "correct_answer": "List all files, including hidden files"
+      },
+      {
+        "question": "What does 'cd' do in the terminal?",
+        "options": [
+          "Change directory",
+          "Print the current working directory",
+          "List files and folders",
+          "Exit the editor"
+        ],
+        "correct_answer": "Change directory"
+      },
+      {
+        "question": "What does 'touch' do in the terminal?",
+        "options": [
+          "Create a new file",
+          "Delete a file",
+          "List all files",
+          "Open the text editor"
+        ],
+        "correct_answer": "Create a new file"
+      },
+      {
+        "question": "What does 'python3 filename' do on MAC?",
+        "options": [
+          "Run a Python file",
+          "Edit a file",
+          "Rename a file",
+          "Print the current directory"
+        ],
+        "correct_answer": "Run a Python file"
+      },
+      {
+        "question": "What does 'pwd' do in the terminal?",
+        "options": [
+          "Print the current working directory",
+          "Create a new directory",
+          "Delete a directory",
+          "Change directory"
+        ],
+        "correct_answer": "Print the current working directory"
+      },
+      {
+        "question": "What does 'mkdir' do in the terminal?",
+        "options": [
+          "Create a new folder",
+          "Remove a folder",
+          "Create a new file",
+          "Open the text editor"
+        ],
+        "correct_answer": "Create a new folder"
+      },
+      {
+        "question": "What does 'rmdir' do in the terminal?",
+        "options": [
+          "Remove a folder",
+          "Create a file",
+          "Move a file",
+          "List files"
+        ],
+        "correct_answer": "Remove a folder"
+      },
+      {
+        "question": "What does 'nano filename' do in the terminal?",
+        "options": [
+          "Open the text editor",
+          "List all files",
+          "Create a folder",
+          "Run a Python file"
+        ],
+        "correct_answer": "Open the text editor"
+      },
+      {
+        "question": "What does 'mv' do in the terminal?",
+        "options": [
+          "Rename or move a file",
+          "Copy a file",
+          "Create a new file",
+          "Print the current directory"
+        ],
+        "correct_answer": "Rename or move a file"
+      },
+      {
+        "question": "What does 'ctrl + x + y' do in the terminal?",
+        "options": [
+          "Exit the nano editor",
+          "Create a new folder",
+          "Print the current directory",
+          "List hidden files"
+        ],
+        "correct_answer": "Exit the nano editor"
+      }
+    ],
+    "object_oriented_programming": [
+      {
+        "question": "What are 'object attributes'?",
+        "options": [
+          "Attributes for an object, accessed via the instance",
+          "A variable shared across all instances",
+          "A method defined within a class",
+          "The blueprint for objects"
+        ],
+        "correct_answer": "Attributes for an object, accessed via the instance"
+      },
+      {
+        "question": "What is a 'class'?",
+        "options": [
+          "A blueprint for objects",
+          "An individual instance",
+          "A type of loop",
+          "A data type"
+        ],
+        "correct_answer": "A blueprint for objects"
+      },
+      {
+        "question": "What is an 'instance' or 'object'?",
+        "options": [
+          "What we create from a class",
+          "A class variable",
+          "A protected method",
+          "A type of loop"
+        ],
+        "correct_answer": "What we create from a class"
+      },
+      {
+        "question": "What does 'instantiate' mean?",
+        "options": [
+          "To create an object from a class",
+          "To define a new method",
+          "To call a function",
+          "To exit the program"
+        ],
+        "correct_answer": "To create an object from a class"
+      },
+      {
+        "question": "What are 'class variables'?",
+        "options": [
+          "Variables shared across all instances",
+          "Variables specific to each instance",
+          "Methods in a class",
+          "Parameters in a function"
+        ],
+        "correct_answer": "Variables shared across all instances"
+      },
+      {
+        "question": "What is '__init__'?",
+        "options": [
+          "The constructor method, runs when an instance is created",
+          "A class attribute",
+          "A protected variable",
+          "A type of loop"
+        ],
+        "correct_answer": "The constructor method, runs when an instance is created"
+      },
+      {
+        "question": "What does 'self' represent in a class method?",
+        "options": [
+          "A reference to the instance of the class",
+          "A global variable",
+          "A local parameter",
+          "A superclass"
+        ],
+        "correct_answer": "A reference to the instance of the class"
+      },
+      {
+        "question": "What is 'encapsulation'?",
+        "options": [
+          "Separating an object's data and methods from external access",
+          "A type of error handling",
+          "A method for listing attributes",
+          "A method for loop control"
+        ],
+        "correct_answer": "Separating an object's data and methods from external access"
+      },
+      {
+        "question": "What are 'protected variables'?",
+        "options": [
+          "Variables prefixed with '_', used internally only",
+          "Variables accessible by all classes",
+          "Functions accessible in all scopes",
+          "Global variables in a script"
+        ],
+        "correct_answer": "Variables prefixed with '_', used internally only"
+      },
+      {
+        "question": "What does 'inheritance' mean in object-oriented programming?",
+        "options": [
+          "A class can inherit attributes and methods from another",
+          "A method to debug classes",
+          "A type of loop",
+          "A form of error handling"
+        ],
+        "correct_answer": "A class can inherit attributes and methods from another"
+      },
+      {
+        "question": "What is 'abstraction'?",
+        "options": [
+          "Hiding complex logic and providing simple access via methods",
+          "Combining data and behavior",
+          "Creating a loop for classes",
+          "Assigning a new variable"
+        ],
+        "correct_answer": "Hiding complex logic and providing simple access via methods"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Why do we need flow control in programming?",
+        "options": [
+          "To make decisions based on conditions",
+          "To write code faster",
+          "To avoid needing to comment code",
+          "To see error messages"
+        ],
+        "correct_answer": "To make decisions based on conditions"
+      },
+      {
+        "question": "What is the difference between a for loop and a while loop?",
+        "options": [
+          "A for loop is used when the number of iterations is known; a while loop when it is unknown",
+          "While loops are faster than for loops",
+          "For loops are used for functions, while loops for classes",
+          "While loops are only used for large data"
+        ],
+        "correct_answer": "A for loop is used when the number of iterations is known; a while loop when it is unknown"
+      },
+      {
+        "question": "What do we call a block of code that performs a specific task?",
+        "options": ["Function", "Attribute", "Variable", "Class"],
+        "correct_answer": "Function"
+      },
+      {
+        "question": "What are the variables called that we define in a function, and what are the values called that we pass to it?",
+        "options": [
+          "Parameter and argument",
+          "Attribute and method",
+          "Object and instance",
+          "Class and method"
+        ],
+        "correct_answer": "Parameter and argument"
+      },
+      {
+        "question": "What types of parameters exist in functions?",
+        "options": [
+          "Default and positional",
+          "Global and local",
+          "Method and function",
+          "Instance and class"
+        ],
+        "correct_answer": "Default and positional"
+      },
+      {
+        "question": "How do you represent a dictionary and a list?",
+        "options": [
+          "Dictionary = {}, List = []",
+          "Dictionary = [], List = {}",
+          "Dictionary = {}, List = ()",
+          "Dictionary = (), List = {}"
+        ],
+        "correct_answer": "Dictionary = {}, List = []"
+      },
+      {
+        "question": "What is the main difference between a list and a dictionary?",
+        "options": [
+          "A dictionary has keys with unique values, while a list only has values",
+          "A list has keys with unique values, while a dictionary has values with keys",
+          "A dictionary is always faster than a list",
+          "A list uses less memory than a dictionary"
+        ],
+        "correct_answer": "A dictionary has keys with unique values, while a list only has values"
+      },
+      {
+        "question": "What are the two main approaches to error handling?",
+        "options": [
+          "LBYL and EAFP",
+          "POP and OOP",
+          "CMD and IDE",
+          "INT and STR"
+        ],
+        "correct_answer": "LBYL and EAFP"
+      },
+      {
+        "question": "Which statements are part of EAFP in error handling?",
+        "options": [
+          "try, except, else, finally",
+          "if, else, elif, endif",
+          "try, catch, throw, finally",
+          "test, error, resolve, continue"
+        ],
+        "correct_answer": "try, except, else, finally"
+      },
+      {
+        "question": "What is PIP?",
+        "options": [
+          "A package manager for Python",
+          "An API for Python",
+          "A testing tool for Python",
+          "A debugging tool for Python"
+        ],
+        "correct_answer": "A package manager for Python"
+      }
+    ],
+    "pandas": [
+      {
+        "question": "What is data wrangling in the context of data analysis?",
+        "options": [
+          "Cleaning and transforming data",
+          "Creating new columns in a DataFrame",
+          "Visualizing data",
+          "Merging two DataFrames"
+        ],
+        "correct_answer": "Cleaning and transforming data"
+      },
+      {
+        "question": "What does a 'Series' represent in pandas?",
+        "options": [
+          "A single column of data",
+          "An entire table",
+          "The name of a row",
+          "A method for visualizing data"
+        ],
+        "correct_answer": "A single column of data"
+      },
+      {
+        "question": "What is a DataFrame in pandas?",
+        "options": [
+          "A table with rows and columns",
+          "A sequence of integers",
+          "A dictionary with only one key",
+          "A visualization tool"
+        ],
+        "correct_answer": "A table with rows and columns"
+      },
+      {
+        "question": "What does each entry in a pandas DataFrame represent?",
+        "options": [
+          "A value at a specific row and column",
+          "A list of integers",
+          "An entire row",
+          "An entire column"
+        ],
+        "correct_answer": "A value at a specific row and column"
+      },
+      {
+        "question": "How do you save a DataFrame named 'teknikhogskolan' as a CSV file?",
+        "options": [
+          "teknikhogskolan.to_csv('superclass.csv')",
+          "pd.save_csv(teknikhogskolan, 'superclass.csv')",
+          "teknikhogskolan.write_csv('superclass.csv')",
+          "pd.to_csv(teknikhogskolan, 'superclass.csv')"
+        ],
+        "correct_answer": "teknikhogskolan.to_csv('superclass.csv')"
+      },
+      {
+        "question": "Which command reads a CSV file into a DataFrame?",
+        "options": [
+          "pd.read_csv('filename.csv')",
+          "pd.DataFrame('filename.csv')",
+          "pd.load_csv('filename.csv')",
+          "pd.Series('filename.csv')"
+        ],
+        "correct_answer": "pd.read_csv('filename.csv')"
+      },
+      {
+        "question": "What does iloc[] allow you to access in a DataFrame?",
+        "options": [
+          "Rows and columns based on integer position",
+          "Rows and columns based on labels",
+          "Only specific rows",
+          "Only specific columns"
+        ],
+        "correct_answer": "Rows and columns based on integer position"
+      },
+      {
+        "question": "What does loc[] allow you to access in a DataFrame?",
+        "options": [
+          "Rows and columns based on index labels",
+          "Rows and columns based on integer position",
+          "Only the first column",
+          "Only the last row"
+        ],
+        "correct_answer": "Rows and columns based on index labels"
+      },
+      {
+        "question": "When is the set_index() function used in pandas?",
+        "options": [
+          "To change the names of rows using a specified column",
+          "To add a new column",
+          "To filter data in a DataFrame",
+          "To remove rows"
+        ],
+        "correct_answer": "To change the names of rows using a specified column"
+      },
+      {
+        "question": "Why is a DataFrame similar to a mix of a dictionary and a list?",
+        "options": [
+          "It can be accessed by both index and label",
+          "It only has keys",
+          "It only has values",
+          "It cannot be accessed by row"
+        ],
+        "correct_answer": "It can be accessed by both index and label"
+      }
+    ],
+    "git": [
+      {
+        "question": "What does 'git init' do?",
+        "options": [
+          "Initializes a new Git repository",
+          "Stages changes for commit",
+          "Saves the current working state",
+          "Deletes a Git repository"
+        ],
+        "correct_answer": "Initializes a new Git repository"
+      },
+      {
+        "question": "What is the purpose of 'git add'?",
+        "options": [
+          "Stages changes to be committed",
+          "Commits staged changes to the repository",
+          "Creates a new branch",
+          "Deletes files from the repository"
+        ],
+        "correct_answer": "Stages changes to be committed"
+      },
+      {
+        "question": "What does 'git commit -m' accomplish?",
+        "options": [
+          "Commits changes with a message",
+          "Moves to a different branch",
+          "Shows commit history",
+          "Removes untracked files"
+        ],
+        "correct_answer": "Commits changes with a message"
+      },
+      {
+        "question": "What is the role of 'git status'?",
+        "options": [
+          "Displays the state of the working directory and staging area",
+          "Switches to a different branch",
+          "Fetches updates from a remote repository",
+          "Deletes untracked files"
+        ],
+        "correct_answer": "Displays the state of the working directory and staging area"
+      },
+      {
+        "question": "What does 'git log' show?",
+        "options": [
+          "The commit history of the repository",
+          "A list of untracked files",
+          "The changes in the current branch",
+          "The names of all branches"
+        ],
+        "correct_answer": "The commit history of the repository"
+      },
+      {
+        "question": "How do you create a new branch in Git?",
+        "options": [
+          "'git branch branch_name'",
+          "'git init branch_name'",
+          "'git clone branch_name'",
+          "'git commit branch_name'"
+        ],
+        "correct_answer": "'git branch branch_name'"
+      },
+      {
+        "question": "What is 'git merge' used for?",
+        "options": [
+          "Combining changes from one branch into another",
+          "Deleting a branch",
+          "Creating a new repository",
+          "Resetting the repository to a previous state"
+        ],
+        "correct_answer": "Combining changes from one branch into another"
+      },
+      {
+        "question": "What does 'git pull' do?",
+        "options": [
+          "Fetches and merges updates from a remote repository",
+          "Pushes changes to a remote repository",
+          "Displays the commit history",
+          "Creates a new branch"
+        ],
+        "correct_answer": "Fetches and merges updates from a remote repository"
+      },
+      {
+        "question": "What is the purpose of 'git push'?",
+        "options": [
+          "Uploads local commits to a remote repository",
+          "Fetches updates from a remote repository",
+          "Creates a new branch",
+          "Shows the status of the working directory"
+        ],
+        "correct_answer": "Uploads local commits to a remote repository"
+      },
+      {
+        "question": "How do you view the differences between the staged and working files?",
+        "options": ["'git diff'", "'git commit'", "'git log'", "'git clone'"],
+        "correct_answer": "'git diff'"
+      },
+      {
+        "question": "What does 'git clone' accomplish?",
+        "options": [
+          "Creates a copy of a remote repository",
+          "Merges changes from one branch into another",
+          "Deletes a local branch",
+          "Lists all available branches"
+        ],
+        "correct_answer": "Creates a copy of a remote repository"
+      },
+      {
+        "question": "What is the purpose of 'git checkout'?",
+        "options": [
+          "Switches to a different branch or commit",
+          "Removes staged files",
+          "Initializes a new Git repository",
+          "Lists all tags"
+        ],
+        "correct_answer": "Switches to a different branch or commit"
+      },
+      {
+        "question": "What does 'git remote' allow you to do?",
+        "options": [
+          "Manage connections to remote repositories",
+          "Commit changes to the repository",
+          "Check the status of the repository",
+          "List all branches in the repository"
+        ],
+        "correct_answer": "Manage connections to remote repositories"
+      },
+      {
+        "question": "What is 'git rebase' used for?",
+        "options": [
+          "Moves or combines a series of commits to a new base commit",
+          "Deletes a commit from the history",
+          "Clones a repository",
+          "Displays the commit log"
+        ],
+        "correct_answer": "Moves or combines a series of commits to a new base commit"
+      },
+      {
+        "question": "What does 'git fetch' do?",
+        "options": [
+          "Downloads changes from a remote repository without merging",
+          "Merges changes from one branch to another",
+          "Commits all local changes",
+          "Deletes a remote branch"
+        ],
+        "correct_answer": "Downloads changes from a remote repository without merging"
+      }
+    ]
+  }
+}
